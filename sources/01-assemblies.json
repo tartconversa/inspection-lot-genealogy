@@ -1,0 +1,46 @@
+{
+  "intake": 1,
+  "table": "assemblies",
+  "records": [
+    {
+      "id": "a1",
+      "unit": "unitA",
+      "source": "group-a",
+      "qty": 1,
+      "at": 45,
+      "line": "l1"
+    },
+    {
+      "id": "a2",
+      "unit": "unitB",
+      "source": "group-a",
+      "qty": 1,
+      "at": 45,
+      "line": "l1"
+    },
+    {
+      "id": "a3",
+      "unit": "unitC",
+      "source": "group-a",
+      "qty": 1,
+      "at": 47,
+      "line": "l2"
+    },
+    {
+      "id": "a4",
+      "unit": "unitD",
+      "source": "group-a",
+      "qty": 1,
+      "at": 47,
+      "line": "l2"
+    },
+    {
+      "id": "a5",
+      "unit": "unitE",
+      "source": "s001",
+      "qty": 1,
+      "at": 48,
+      "line": "l3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "intake": 2,
+  "table": "rework",
+  "records": [
+    {
+      "id": "rep-a",
+      "unit": "unitA",
+      "old_configuration": "baseA",
+      "new_configuration": "newA",
+      "removed": "n001",
+      "replacement": "n005",
+      "destination": "hold-bin",
+      "at": 75
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "intake": 1,
+  "table": "shipments",
+  "records": [
+    {
+      "id": "ship-b",
+      "customer": "clientB",
+      "units": [
+        "unitB"
+      ],
+      "at": 50,
+      "received": "59"
+    },
+    {
+      "id": "ship-c",
+      "customer": "clientC",
+      "units": [
+        "unitC",
+        "unitE"
+      ],
+      "at": 54,
+      "received": "65"
+    }
+  ]
+}

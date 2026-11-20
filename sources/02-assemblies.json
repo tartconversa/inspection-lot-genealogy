@@ -1,0 +1,14 @@
+{
+  "intake": 2,
+  "table": "assemblies",
+  "records": [
+    {
+      "id": "a6",
+      "unit": "unitF",
+      "source": "n006",
+      "qty": 1,
+      "at": 95,
+      "line": "l1"
+    }
+  ]
+}

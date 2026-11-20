@@ -1,0 +1,18 @@
+{
+  "intake": 3,
+  "table": "notices",
+  "records": [
+    {
+      "id": "notice2",
+      "defect": "D1",
+      "plant": "north",
+      "lot": "L7",
+      "item": "sensor",
+      "span": [
+        0,
+        20
+      ],
+      "replaces": "notice1"
+    }
+  ]
+}

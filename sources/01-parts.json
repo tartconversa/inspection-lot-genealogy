@@ -1,0 +1,62 @@
+{
+  "intake": 1,
+  "table": "parts",
+  "records": [
+    {
+      "id": "p1",
+      "plant": "north",
+      "lot": "L7",
+      "item": "sensor",
+      "proc": 12,
+      "serial": "n001"
+    },
+    {
+      "id": "p2",
+      "plant": "north",
+      "lot": "L7",
+      "item": "sensor",
+      "proc": 27,
+      "serial": "n002"
+    },
+    {
+      "id": "p3",
+      "plant": "north",
+      "lot": "L8",
+      "item": "sensor",
+      "proc": 36,
+      "serial": "n003"
+    },
+    {
+      "id": "p4",
+      "plant": "north",
+      "lot": "L8",
+      "item": "sensor",
+      "proc": 38,
+      "serial": "n004"
+    },
+    {
+      "id": "p5",
+      "plant": "south",
+      "lot": "L7",
+      "item": "sensor",
+      "proc": 12,
+      "serial": "s001"
+    },
+    {
+      "id": "p6",
+      "plant": "north",
+      "lot": "L8",
+      "item": "sensor",
+      "proc": 51,
+      "serial": "n005"
+    },
+    {
+      "id": "p7",
+      "plant": "north",
+      "lot": "L8",
+      "item": "sensor",
+      "proc": 60,
+      "serial": "n006"
+    }
+  ]
+}

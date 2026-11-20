@@ -1,0 +1,16 @@
+{
+  "intake": 3,
+  "table": "assignments",
+  "records": [
+    {
+      "id": "assign-b",
+      "assembly": "a2",
+      "part": "n002"
+    },
+    {
+      "id": "assign-d",
+      "assembly": "a4",
+      "part": "n004"
+    }
+  ]
+}

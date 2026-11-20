@@ -1,0 +1,15 @@
+{
+  "intake": 3,
+  "table": "replies",
+  "records": [
+    {
+      "id": "return-c",
+      "shipment": "ship-c",
+      "customer": "clientC",
+      "units": [
+        "unitC"
+      ],
+      "kind": "return"
+    }
+  ]
+}

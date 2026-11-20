@@ -1,0 +1,24 @@
+{
+  "intake": 2,
+  "table": "replies",
+  "records": [
+    {
+      "id": "return-b",
+      "shipment": "ship-b",
+      "customer": "clientB",
+      "units": [
+        "unitB"
+      ],
+      "kind": "return"
+    },
+    {
+      "id": "return-e",
+      "shipment": "ship-c",
+      "customer": "clientC",
+      "units": [
+        "unitE"
+      ],
+      "kind": "checked"
+    }
+  ]
+}

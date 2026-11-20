@@ -1,0 +1,70 @@
+{
+  "parts": {
+    "id": "text",
+    "plant": "text",
+    "lot": "text",
+    "item": "text",
+    "proc": "int",
+    "serial": "text"
+  },
+  "pool": {
+    "id": "text",
+    "batch": "text",
+    "members": "items",
+    "unit_qty": "int"
+  },
+  "assemblies": {
+    "id": "text",
+    "unit": "text",
+    "source": "text",
+    "qty": "int",
+    "at": "int",
+    "line": "text"
+  },
+  "assignments": {
+    "id": "text",
+    "assembly": "text",
+    "part": "text"
+  },
+  "rework": {
+    "id": "text",
+    "unit": "text",
+    "old_configuration": "text",
+    "new_configuration": "text",
+    "removed": "text",
+    "replacement": "text",
+    "destination": "text",
+    "at": "int"
+  },
+  "certificates": {
+    "id": "text",
+    "unit": "text",
+    "configuration": "text",
+    "defect": "text",
+    "issued_min": "int",
+    "scope": "text"
+  },
+  "notices": {
+    "id": "text",
+    "defect": "text",
+    "plant": "text",
+    "lot": "text",
+    "item": "text",
+    "span": "range",
+    "replaces": "text"
+  },
+  "shipments": {
+    "id": "text",
+    "customer": "text",
+    "units": "items",
+    "at": "int",
+    "received": "text"
+  },
+  "replies": {
+    "id": "text",
+    "shipment": "text",
+    "customer": "text",
+    "units": "items",
+    "kind": "text"
+  }
+}

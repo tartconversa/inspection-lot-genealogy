@@ -1,0 +1,11 @@
+{
+  "intake": 2,
+  "table": "assignments",
+  "records": [
+    {
+      "id": "assign-a",
+      "assembly": "a1",
+      "part": "n001"
+    }
+  ]
+}

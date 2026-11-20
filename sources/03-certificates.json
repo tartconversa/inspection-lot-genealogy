@@ -1,0 +1,22 @@
+{
+  "intake": 3,
+  "table": "certificates",
+  "records": [
+    {
+      "id": "right-cert",
+      "unit": "unitA",
+      "configuration": "newA",
+      "defect": "D1",
+      "issued_min": 83,
+      "scope": "defect-clearance"
+    },
+    {
+      "id": "tool-only",
+      "unit": "unitC",
+      "configuration": "baseC",
+      "defect": "D2",
+      "issued_min": 90,
+      "scope": "inspected"
+    }
+  ]
+}

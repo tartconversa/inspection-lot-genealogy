@@ -1,0 +1,17 @@
+{
+  "intake": 1,
+  "table": "pool",
+  "records": [
+    {
+      "id": "group-a",
+      "batch": "crate-a",
+      "members": [
+        "n001",
+        "n002",
+        "n003",
+        "n004"
+      ],
+      "unit_qty": 4
+    }
+  ]
+}

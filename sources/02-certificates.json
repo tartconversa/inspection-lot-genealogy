@@ -1,0 +1,14 @@
+{
+  "intake": 2,
+  "table": "certificates",
+  "records": [
+    {
+      "id": "wrong-cert",
+      "unit": "unitA",
+      "configuration": "baseA",
+      "defect": "D1",
+      "issued_min": 77,
+      "scope": "inspected"
+    }
+  ]
+}
